@@ -5,9 +5,12 @@
 <h3 align="left">Interests:</h3>
 
 <p align="left">
-- 👀 I’m interested in coding, UI/UX
+- 👋 Hi, I’m @Lexxyla
+- 👀 I’m interested in Programming, UI/UX
 - 🌱 I’m currently learning Software Engineering at ALX- Africa
--  💞️ I’m looking to collaborate on Product Design UI/UX, Web development, Object Oriented Desgign, Mobile app development, Data Science, Data Analytics and AI
+- 💞️ I’m looking to collaborate on Product Design UI/UX, Web development, Object Oriented Desgign, Mobile app development, Data Science, Data Analytics and AI
+- 📫 How to reach me @Lexxyla on Twitter, @olamidealexxy on Instagram
+
 
   
 <h1 align="center">📫 How to reach me:</h3>
