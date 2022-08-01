@@ -1,12 +1,15 @@
 <h1 align="center">👋 Hi, I’m Bamidele
-<h3 align="center">A Software Engineer from Lagos, Nigeria</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lexxyla&label=Profile%20views&color=0e75b6&style=flat" alt="lexxyla" /> </p>
+
+  
+  <h3 align="center">A Software Engineer from Lagos, Nigeria</h3>
 
 <h3 align="left">Interests:</h3>
 
 <p align="left">
-<h3 align="left"> 👀 I’m interested in coding, UI/UX
-<h3 align="left">🌱 I’m currently learning Software Engineering at ALX- Africa
-<h3 align="left"> 💞️ I’m looking to collaborate on Product Design UI/UX, Web development, Object Oriented Desgign, Mobile app development, Data Science, Data Analytics and AI
+* 👀 I’m interested in coding, UI/UX
+* 🌱 I’m currently learning Software Engineering at ALX- Africa
+*  💞️ I’m looking to collaborate on Product Design UI/UX, Web development, Object Oriented Desgign, Mobile app development, Data Science, Data Analytics and AI
 
   
 <h1 align="center">📫 How to reach me:</h3>
