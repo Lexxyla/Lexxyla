@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Bamidele
-<h3 align="center">A Software Engineer from the Lagos</h3>
+<h3 align="center">A Software Engineer from the Lagos, Nigeria</h3>
 
 <h3 align="left">Interests:</h3>
 
