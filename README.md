@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Bamidele
+<h1 align="center">👋 Hi, I’m Bamidele.
   
 <h3 align="center">A Software Engineer from Lagos, Nigeria</h3>
 
@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Programming, UI/UX
 - 🌱 I’m currently learning Software Engineering at ALX- Africa
-- 💞️ I’m looking to collaborate on Product Design UI/UX, Web development, Object Oriented Desgign, Mobile app development, Data Science, Data Analytics and AI
+- 💞️ I’m looking to collaborate on Product Design UI/UX, Web Development, Object Oriented Design, Mobile app development, Data Science, Data Analytics and AI
 - 📫 How to reach me @Lexxyla on Twitter, @olamidealexxy on Instagram
 
 
