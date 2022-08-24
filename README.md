@@ -23,7 +23,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyla &" alt="lexxyla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyla&" alt="lexxyla" /></p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lexxyla&show_icons=true&locale=en&layout=compact" alt="lexxyla" /></p>
 <!---
